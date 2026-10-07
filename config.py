@@ -23,7 +23,7 @@ US_CATEGORIES = {
     "📊 ETFs — Broad Market":         ['SCHD', 'SCHF', 'SCHG', 'SCHY', 'SPY', 'VOOG'],
     "💰 ETFs — Income / Covered Call":['JEPQ', 'QYLD', 'XDTE', 'YMAX'],
     "🏦 Financials":                  ['NDAQ'],
-    "📈 Growth / Tech":               ['CSCO', 'MSFT', 'MSFU', 'NFLX', 'NIO', 'NVDA', 'PLTR', 'SPOT', 'ZM'],
+    "📈 Growth / Tech":               ['META', 'MSFT', 'UNH', 'GOOG', 'TSM', 'NVDA', 'PLTR', 'AVGO', 'ZM'],
     "💵 Income / Dividend":           ['AGNC', 'ARCC', 'GOF', 'MAIN', 'PDI'],
     "🏢 REITs":                       ['IRM', 'MPT', 'O'],
     "🔬 Specialty":                   ['SLVM', 'TDUP'],

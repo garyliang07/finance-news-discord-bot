@@ -108,6 +108,7 @@ ASIA_YAHOO_FORMAT = {
     '1810': '1810.HK',      # Xiaomi
     '823': '0823.HK',       # Link REIT (needs leading zero!)
     '66': '0066.HK',        # MTR Corp (needs leading zero!)
+    '700': '0700.HK',        # Tencent
     
     # Shanghai (.SS)
     '601318': '601318.SS',  # Ping An
